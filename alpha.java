@@ -31,6 +31,6 @@ for (int i = 0; i < n - 1; i++)
 {
 System.out.print(names[i] + ",");
 }
-System.out.print(names[n - 1])l
+System.out.print(names[n - 1]);
 }
 }
